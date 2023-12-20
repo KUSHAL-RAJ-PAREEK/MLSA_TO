@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am currently a second-year Computer Science Engineering student at Poornima College of Engineering. My academic focus lies in Data Structures and Algorithms, particularly in Java.";
+  "I am currently a Computer Science Engineering student at Poornima College of Engineering. My academic focus lies in Data Structures and Algorithms, particularly in Java.";
 
 const About = () => {
   return (
