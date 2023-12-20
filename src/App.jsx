@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Kushal raj pareek",
-  title: "Android Developer and Designer",
+  title: "Android Developer and UI Designer",
   email: "kushalraj.pareek@studentambassadors.com",
   gitHub: "KUSHAL-RAJ-PAREEK",
   instagram: "",
